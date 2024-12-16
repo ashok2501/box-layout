@@ -1,0 +1,26 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins"
+}
+
+header .Logo
+{
+    
+    color: white;
+    font-size: 20px;
+}
+
+.one p{
+    width: 300px;
+}
+.main 
+{
+    width: 100%;
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-between;
+}
+.
